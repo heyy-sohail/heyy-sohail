@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heyy-sohail
 - 👀 I’m interested in ...Learing new things 
-- 🌱 I’m currently learning ...Java 
+- 🌱 I’m currently learning ...css 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Sohaildboss@gmail.com 
 - 😄 Pronouns: ...
