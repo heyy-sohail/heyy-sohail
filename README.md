@@ -5,7 +5,7 @@
 🤖 Interests: AI, Software Engineering, Problem-Solving  
 🌱 Currently improving my coding skills and contributing to open-source  
 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/heyy-sohail/ 
-   E-mail: Sohailarsheikh@gmail.com
+📧 E-mail: Sohailarsheikh@gmail.com
 
 
 <!---
